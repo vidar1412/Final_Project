@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\CNPM_FinalProject\CNPM_FinalProject\bin\Debug\CNPM_FinalProject.exe.config
+C:\Users\Admin\source\repos\CNPM_FinalProject\CNPM_FinalProject\bin\Debug\CNPM_FinalProject.exe
+C:\Users\Admin\source\repos\CNPM_FinalProject\CNPM_FinalProject\bin\Debug\CNPM_FinalProject.pdb
+C:\Users\Admin\source\repos\CNPM_FinalProject\CNPM_FinalProject\obj\Debug\CNPM_FinalProject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CNPM_FinalProject\CNPM_FinalProject\obj\Debug\CNPM_FinalProject.Form1.resources
+C:\Users\Admin\source\repos\CNPM_FinalProject\CNPM_FinalProject\obj\Debug\CNPM_FinalProject.Properties.Resources.resources
+C:\Users\Admin\source\repos\CNPM_FinalProject\CNPM_FinalProject\obj\Debug\CNPM_FinalProject.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CNPM_FinalProject\CNPM_FinalProject\obj\Debug\CNPM_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CNPM_FinalProject\CNPM_FinalProject\obj\Debug\CNPM_FinalProject.exe
+C:\Users\Admin\source\repos\CNPM_FinalProject\CNPM_FinalProject\obj\Debug\CNPM_FinalProject.pdb
+C:\Users\Admin\source\repos\CNPM_FinalProject\CNPM_FinalProject\obj\Debug\CNPM_FinalProject.Form2.resources
+C:\Users\Admin\source\repos\CNPM_FinalProject\CNPM_FinalProject\obj\Debug\CNPM_FinalProject.MANAGE.resources
+C:\Users\Admin\source\repos\CNPM_FinalProject\CNPM_FinalProject\obj\Debug\CNPM_FinalProject.Form4.resources
